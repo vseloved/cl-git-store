@@ -1,1 +1,0 @@
-/home/vs/prj/lisp/nuts-fit/vs.utils.lisp
